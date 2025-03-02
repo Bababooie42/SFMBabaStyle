@@ -1,0 +1,41 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.0",
+	"FriendlyName": "Zoopables!",
+	"Description": "",
+	"Category": "Modding",
+	"CreatedBy": "Bababooie",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "SML",
+			"Enabled": true,
+			"SemVersion": "^3.9.1"
+		},
+		{
+			"Name": "InfiniteNudge",
+			"Enabled": true,
+			"SemVersion": "^2.3.3"
+		},
+		{
+			"Name": "InfiniteZoop",
+			"Enabled": true,
+			"SemVersion": "^1.8.22"
+		},
+		{
+			"Name": "UniversalSoftClearance",
+			"Enabled": true,
+			"SemVersion": "^1.0.9"
+		}
+	],
+	"SemVersion": "1.0.0",
+	"GameVersion": ">=383729"
+}

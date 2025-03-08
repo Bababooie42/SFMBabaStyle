@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.0.0",
+	"VersionName": "1.0.1",
 	"FriendlyName": "Zoopables!",
 	"Description": "",
 	"Category": "Modding",
@@ -18,7 +18,7 @@
 		{
 			"Name": "SML",
 			"Enabled": true,
-			"SemVersion": "^3.9.1"
+			"SemVersion": "^3.10.0"
 		},
 		{
 			"Name": "InfiniteNudge",
@@ -36,6 +36,6 @@
 			"SemVersion": "^1.0.9"
 		}
 	],
-	"SemVersion": "1.0.0",
+	"SemVersion": "1.0.1",
 	"GameVersion": ">=383729"
 }

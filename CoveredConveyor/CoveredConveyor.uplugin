@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"Version": 3,
+	"VersionName": "3.1.1",
+	"FriendlyName": "Covered Conveyor Belts",
+	"Description": "",
+	"Category": "Modding",
+	"CreatedBy": "Andre Aquila, Bababooie",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "SML",
+			"Enabled": true,
+			"SemVersion": "^3.10.0"
+		}
+	],
+	"SemVersion": "3.1.1",
+	"GameVersion": ">=383729"
+}

@@ -1,11 +1,11 @@
 {
 	"FileVersion": 3,
-	"Version": 3,
-	"VersionName": "3.2.0",
-	"FriendlyName": "Covered Conveyor Belts",
+	"Version": 1,
+	"VersionName": "1.0.0",
+	"FriendlyName": "Dismantle Weapons",
 	"Description": "",
 	"Category": "Modding",
-	"CreatedBy": "Andre Aquila, Bababooie",
+	"CreatedBy": "Bababooie",
 	"CreatedByURL": "",
 	"DocsURL": "",
 	"MarketplaceURL": "",
@@ -21,6 +21,6 @@
 			"SemVersion": "^3.10.0"
 		}
 	],
-	"SemVersion": "3.2.0",
+	"SemVersion": "1.0.0",
 	"GameVersion": ">=383729"
 }

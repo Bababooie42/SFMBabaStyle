@@ -1,11 +1,11 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.0.0",
-	"FriendlyName": "FIFOContainersRedux",
-	"Description": "",
+	"VersionName": "1.0.1",
+	"FriendlyName": "FIFO Containers Redux",
+	"Description": "First In First Out Containers!",
 	"Category": "Modding",
-	"CreatedBy": "Bababooie",
+	"CreatedBy": "Bababooie, Andre Aquila",
 	"CreatedByURL": "",
 	"DocsURL": "",
 	"MarketplaceURL": "",
@@ -21,6 +21,6 @@
 			"SemVersion": "^3.10.0"
 		}
 	],
-	"SemVersion": "1.0.0",
+	"SemVersion": "1.0.1",
 	"GameVersion": ">=383729"
 }

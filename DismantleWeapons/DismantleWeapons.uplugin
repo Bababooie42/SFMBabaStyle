@@ -1,9 +1,9 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.0.0",
-	"FriendlyName": "Dismantle Weapons",
-	"Description": "",
+	"VersionName": "1.1.1",
+	"FriendlyName": "Weapons of Mass Dismantling",
+	"Description": "Weapons that can dismantle buildables!",
 	"Category": "Modding",
 	"CreatedBy": "Bababooie",
 	"CreatedByURL": "",
@@ -21,6 +21,6 @@
 			"SemVersion": "^3.10.0"
 		}
 	],
-	"SemVersion": "1.0.0",
+	"SemVersion": "1.1.1",
 	"GameVersion": ">=383729"
 }

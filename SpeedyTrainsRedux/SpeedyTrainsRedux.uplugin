@@ -1,9 +1,9 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.1.1",
-	"FriendlyName": "World Grid Snapping Extractors",
-	"Description": "Extractors that snap to world-grid!",
+	"VersionName": "1.0.0",
+	"FriendlyName": "Speedy Trains Redux",
+	"Description": "Faster trains, baby!",
 	"Category": "Modding",
 	"CreatedBy": "Bababooie",
 	"CreatedByURL": "",
@@ -21,6 +21,6 @@
 			"SemVersion": "^3.10.0"
 		}
 	],
-	"SemVersion": "1.1.1",
+	"SemVersion": "1.0.0",
 	"GameVersion": ">=383729"
 }

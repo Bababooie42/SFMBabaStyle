@@ -1,0 +1,33 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.0",
+	"FriendlyName": "Vehicle Ghosting",
+	"Description": "Disables collision between vehicles!",
+	"Category": "Modding",
+	"CreatedBy": "Bababooie",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "SML",
+			"Enabled": true,
+			"SemVersion": "^3.11.0"
+		}
+	],
+	"SemVersion": "1.0.0",
+	"GameVersion": ">=410840",
+	"Modules": [
+		{
+			"Name": "VehicleGhosting",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

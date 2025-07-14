@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.0.0",
+	"VersionName": "1.0.2",
 	"FriendlyName": "Vehicle Ghosting",
 	"Description": "Disables collision between vehicles!",
 	"Category": "Modding",
@@ -18,11 +18,11 @@
 		{
 			"Name": "SML",
 			"Enabled": true,
-			"SemVersion": "^3.11.0"
+			"SemVersion": "^3.11.1"
 		}
 	],
-	"SemVersion": "1.0.0",
-	"GameVersion": ">=410840",
+	"SemVersion": "1.0.2",
+	"GameVersion": ">=416835",
 	"Modules": [
 		{
 			"Name": "VehicleGhosting",

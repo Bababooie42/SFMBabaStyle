@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
 	"Version": 2,
-	"VersionName": "2.0.1",
+	"VersionName": "2.1.1",
 	"FriendlyName": "Extra Finishes",
 	"Description": "Adds some extra paint finishes to the customiser, purchasable from the Awesome Shop",
 	"Category": "Modding",
@@ -21,6 +21,6 @@
 			"SemVersion": "^3.11.1"
 		}
 	],
-	"SemVersion": "2.0.1",
+	"SemVersion": "2.1.1",
 	"GameVersion": ">=416835"
 }

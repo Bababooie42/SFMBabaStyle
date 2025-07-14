@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
 	"Version": 3,
-	"VersionName": "3.2.0",
+	"VersionName": "3.2.1",
 	"FriendlyName": "Covered Conveyor Belts",
 	"Description": "",
 	"Category": "Modding",
@@ -18,9 +18,9 @@
 		{
 			"Name": "SML",
 			"Enabled": true,
-			"SemVersion": "^3.10.0"
+			"SemVersion": "^3.11.0"
 		}
 	],
-	"SemVersion": "3.2.0",
-	"GameVersion": ">=383729"
+	"SemVersion": "3.2.1",
+	"GameVersion": ">=410840"
 }

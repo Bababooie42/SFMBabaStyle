@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
 	"Version": 2,
-	"VersionName": "2.0.0",
+	"VersionName": "2.0.3",
 	"FriendlyName": "N-gon Foundations",
 	"Description": "",
 	"Category": "Modding",
@@ -18,9 +18,9 @@
 		{
 			"Name": "SML",
 			"Enabled": true,
-			"SemVersion": "^3.10.0"
+			"SemVersion": "^3.11.1"
 		}
 	],
-	"SemVersion": "2.0.0",
-	"GameVersion": ">=383729"
+	"SemVersion": "2.0.3",
+	"GameVersion": ">=416835"
 }

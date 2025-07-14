@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.1.1",
+	"VersionName": "1.1.3",
 	"FriendlyName": "MLB Alternates",
 	"Description": "Load Balancers with different models!",
 	"Category": "Modding",
@@ -18,14 +18,14 @@
 		{
 			"Name": "SML",
 			"Enabled": true,
-			"SemVersion": "^3.10.0"
+			"SemVersion": "^3.11.1"
 		},
 		{
 			"Name": "LoadBalancers",
 			"Enabled": true,
-			"SemVersion": "^1.15.1"
+			"SemVersion": "^1.15.2"
 		}
 	],
-	"SemVersion": "1.1.1",
-	"GameVersion": ">=383729"
+	"SemVersion": "1.1.3",
+	"GameVersion": ">=416835"
 }

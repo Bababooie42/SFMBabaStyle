@@ -1,0 +1,36 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.0",
+	"FriendlyName": "Oops! All Zoops",
+	"Description": "Allows swapping a lot of buildables to a 3D zooping mode!",
+	"Category": "Modding",
+	"CreatedBy": "Bababooie",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "SML",
+			"Enabled": true,
+			"SemVersion": "^3.11.3"
+		},
+		{
+			"Name": "InfiniteNudge",
+			"Enabled": true,
+			"SemVersion": "^2.5.0"
+		},
+		{
+			"Name": "UniversalSoftClearance",
+			"Enabled": true,
+			"SemVersion": "^1.0.13"
+		}
+	],
+	"SemVersion": "1.0.0",
+	"GameVersion": ">=416835"
+}

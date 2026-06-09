@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.0.2",
+	"VersionName": "1.0.3",
 	"FriendlyName": "Baba's Customizer Collection",
 	"Description": "A compilation of Bababooie's customizer additions and alterations",
 	"Category": "Modding",
@@ -56,6 +56,6 @@
 			"SemVersion": "^1.0.0"
 		}
 	],
-	"SemVersion": "1.0.2",
+	"SemVersion": "1.0.3",
 	"GameVersion": ">=491125"
 }

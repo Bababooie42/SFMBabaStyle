@@ -16,9 +16,6 @@
 
 #define LOCTEXT_NAMESPACE "FNoInvalidFloorPlacementModule"
 
-float origLegLength;
-bool DoneSet = false;
-FVector pos;
 
 void FNoInvalidFloorPlacementModule::StartupModule()
 {
@@ -59,13 +56,8 @@ void FNoInvalidFloorPlacementModule::RegisterHook()
 						if (self->mConstructDisqualifiers.Contains(UFGCDInvalidFloor::StaticClass()))
 						{
 							self->mConstructDisqualifiers.Remove(UFGCDInvalidFloor::StaticClass());
-							UE_LOG(LogNativeHookManager, Display, TEXT("Removed construct disqualifier?"));
 						}
 					}
-				}
-				else
-				{
-					UE_LOG(LogNativeHookManager, Display, TEXT("Cast failed!"));
 				}
 			});
 

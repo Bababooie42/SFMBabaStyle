@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.1.2",
+	"VersionName": "1.1.4",
 	"FriendlyName": "No Invalid Floor Placement",
 	"Description": "Removes \"Surface is uneven\" warning when building",
 	"Category": "Modding",
@@ -18,11 +18,11 @@
 		{
 			"Name": "SML",
 			"Enabled": true,
-			"SemVersion": "^3.11.3"
+			"SemVersion": "^3.12.0"
 		}
 	],
-	"SemVersion": "1.1.2",
-	"GameVersion": ">=416835",
+	"SemVersion": "1.1.4",
+	"GameVersion": ">=491125",
 	"Modules": [
 		{
 			"Name": "NoInvalidFloorPlacement",

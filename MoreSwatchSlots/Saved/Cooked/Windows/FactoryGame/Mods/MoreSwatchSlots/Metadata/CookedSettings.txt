@@ -1,0 +1,7 @@
+[CookSettings]
+Version=21F52B9EDD4D456AB1AF381CA172BD28
+CookIncremental=false
+ExecutableHashInvalidModule=E:/Unreal Engine - CSS/Engine/Binaries/Win64/
+CookMode=CookByTheBook
+DLCName=MoreSwatchSlots
+

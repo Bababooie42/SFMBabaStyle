@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.4.0",
+	"VersionName": "1.4.2",
 	"FriendlyName": "Zoopables!",
 	"Description": "Factory machines and other buildables that you can zoop!",
 	"Category": "Modding",
@@ -18,12 +18,12 @@
 		{
 			"Name": "SML",
 			"Enabled": true,
-			"SemVersion": "^3.11.3"
+			"SemVersion": "^3.12.0"
 		},
 		{
 			"Name": "InfiniteNudge",
 			"Enabled": true,
-			"SemVersion": "^2.3.6"
+			"SemVersion": "^2.6.0"
 		},
 		{
 			"Name": "InfiniteZoop",
@@ -36,6 +36,6 @@
 			"SemVersion": "^1.0.12"
 		}
 	],
-	"SemVersion": "1.4.0",
-	"GameVersion": ">=416835"
+	"SemVersion": "1.4.2",
+	"GameVersion": ">=491125"
 }

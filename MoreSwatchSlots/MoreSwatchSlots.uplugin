@@ -1,0 +1,33 @@
+{
+	"FileVersion": 3,
+	"Version": 3,
+	"VersionName": "3.0.1",
+	"SemVersion": "3.0.1",
+	"FriendlyName": "MoreSwatchSlots",
+	"Description": "Add more Swatch Slots",
+	"Category": "Modding",
+	"CreatedBy": "Kyri123",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "SML",
+			"SemVersion": "^3.10.0",
+			"Enabled": true
+		}
+	],
+	"LocalizationTargets": [
+		{
+			"Name": "MoreSwatchSlots",
+			"LoadingPolicy": "Always"
+		}
+	],
+	"AcceptsAnyRemoteVersion": false,
+	"GameVersion": ">=382498"
+}

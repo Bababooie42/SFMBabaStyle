@@ -6,7 +6,9 @@ public class VehicleGhosting : ModuleRules
 {
 	public VehicleGhosting(ReadOnlyTargetRules Target) : base(Target)
 	{
-		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
+
+        
+        PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 		CppStandard = CppStandardVersion.Cpp20;
 
 		// FactoryGame transitive dependencies

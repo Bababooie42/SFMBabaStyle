@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.2",
+	"FriendlyName": "Bionicle Mask Helmets",
+	"Description": "Helmet customisation options based on Bionicle's Great Kanohi Masks",
+	"Category": "Modding",
+	"CreatedBy": "Bababooie",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "SML",
+			"Enabled": true,
+			"SemVersion": "^3.12.0"
+		}
+	],
+	"SemVersion": "1.0.2",
+	"GameVersion": ">=491125"
+}

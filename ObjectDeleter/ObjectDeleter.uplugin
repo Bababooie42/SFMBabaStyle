@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.0.2",
+	"VersionName": "1.0.4",
 	"FriendlyName": "Object Deleter",
 	"Description": "",
 	"Category": "Modding",
@@ -18,14 +18,14 @@
 		{
 			"Name": "SML",
 			"Enabled": true,
-			"SemVersion": "^3.11.3"
+			"SemVersion": "^3.12.0"
 		},
 		{
 			"Name": "FoliageInstanceBPFL",
 			"Enabled": true,
-			"SemVersion": "1.0.0"
+			"SemVersion": "^1.0.0"
 		}
 	],
-	"SemVersion": "1.0.2",
-	"GameVersion": ">=416835"
+	"SemVersion": "1.0.4",
+	"GameVersion": ">=491125"
 }

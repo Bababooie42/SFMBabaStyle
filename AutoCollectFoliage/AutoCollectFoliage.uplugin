@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.0.5",
+	"VersionName": "1.0.6",
 	"FriendlyName": "Auto Collect Foliage",
 	"Description": "",
 	"Category": "Modding",
@@ -25,14 +25,14 @@
 		{
 			"Name": "SML",
 			"Enabled": true,
-			"SemVersion": "^3.11.3"
+			"SemVersion": "^3.12.0"
 		},
 		{
 			"Name": "FoliageInstanceBPFL",
 			"Enabled": true,
-			"SemVersion": "1.0.0"
+			"SemVersion": "^1.0.0"
 		}
 	],
-	"SemVersion": "1.0.5",
-	"GameVersion": ">=416835"
+	"SemVersion": "1.0.6",
+	"GameVersion": ">=491125"
 }

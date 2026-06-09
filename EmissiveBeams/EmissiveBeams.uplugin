@@ -1,11 +1,11 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.0.1",
+	"VersionName": "1.1.2",
 	"FriendlyName": "EmissiveBeams",
 	"Description": "An assortment of different sized emissive beams to add extra flare to your factories!",
 	"Category": "Modding",
-	"CreatedBy": "Bababooie",
+	"CreatedBy": "Bababooie, Muppet Burrito",
 	"CreatedByURL": "",
 	"DocsURL": "",
 	"MarketplaceURL": "",
@@ -18,9 +18,9 @@
 		{
 			"Name": "SML",
 			"Enabled": true,
-			"SemVersion": "^3.10.0"
+			"SemVersion": "^3.12.0"
 		}
 	],
-	"SemVersion": "1.0.1",
-	"GameVersion": ">=383729"
+	"SemVersion": "1.1.2",
+	"GameVersion": ">=491125"
 }
